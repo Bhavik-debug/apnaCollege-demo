@@ -1,4 +1,4 @@
 # apnaCollege-demo
 this is my first git repository
 <br>
-author-Bhavik-Gupta
+author-Bhavik (modified)
